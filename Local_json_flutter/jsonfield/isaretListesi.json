@@ -1,0 +1,386 @@
+[
+  {
+    "Id": 1,
+    "Adi": "Sağa Tehlikeli Viraj",
+    "ResimYolu": "assets/Trafikisaretleri/1-saga-tehlikeli-viraj.png",
+    "Aciklama": "Sağa dönemeçli bir yol  kesimine yaklaşıldığını bildirir.  Sürücüler, taşıtlarının  hızını azaltarak diğer  işaretlerle belirtilen  geçme yasağı, duraklama  ve park etme yasağına  uyarlar."
+  },
+  {
+    "Id": 2,
+    "Adi": "Sola Tehlikeli Viraj",
+    "ResimYolu": "assets/Trafikisaretleri/2-sola-tehlikeli-viraj.png",
+    "Aciklama": "Sola dönemeçli bir yol  kesimine yaklaşıldığını bildirir.  Sürücüler, taşıtlarının  hızını azaltarak diğer  işaretlerle belirtilen geçme  yasağı, duraklama ve park  etme yasağına uyarlar."
+  },
+  {
+    "Id": 3,
+    "Adi": "Sağa Tehlikeli Devamlı Viraj",
+    "ResimYolu": "assets/Trafikisaretleri/3-saga-tehlikeli-devamli-viraj.png",
+    "Aciklama": "İlki sağa olmak üzere  tehlikeli devamlı virajlı yol  kesimine girileceğini bildirir.  Sürücüler, taşıtlarının  hızını azaltarak diğer  işaretlerle belirtilen yasaklama  ve kısıtlamalara  uyarlar."
+  },
+  {
+    "Id": 4,
+    "Adi": "Sola Tehlikeli Devamlı Viraj",
+    "ResimYolu": "assets/Trafikisaretleri/4-sola-tehlikeli-devamli-viraj.png",
+    "Aciklama": "İlki sola olmak üzere  tehlikeli ve devamlı virajlı  yol kesimine girileceğini  bildirir. Sürücüler, taşıtlarının  hızını azaltarak diğer  işaretlerle belirtilen yasaklama  ve kısıtlamalara uyarlar."
+  },
+  {
+    "Id": 5,
+    "Adi": "Tehlikeli Eğim İniş",
+    "ResimYolu": "assets/Trafikisaretleri/5-tehlikeli-egim-inis.png",
+    "Aciklama": "Bu trafik işareti tehlikeli olduğu öngörülen eğimli bir iniş olduğunu bildirir. Levhada eğimin yüzde kaç olduğunun yazmasının yanı sıra ne kadar süreceği de genellikle tabelanın altına yazılır. Özellikle ağır vasıtalar vites küçülterek yolu dikkatli inmeleri gerekir."
+  },
+  {
+    "Id": 6,
+    "Adi": "Tehlikeli Eğim Çıkış",
+    "ResimYolu": "assets/Trafikisaretleri/6-tehlikeli-egim-cikis.png",
+    "Aciklama": "Bu trafik işareti tehlikeli olduğu öngörülen eğimli bir çıkış olduğunu bildirir. Levhada eğimin yüzde kaç olduğunun yazmasının yanı sıra ne kadar süreceği de genellikle tabelanın altına yazılır."
+  },
+  {
+    "Id": 7,
+    "Adi": "İki Taraftan Daralan Kaplama",
+    "ResimYolu": "assets/Trafikisaretleri/7-iki-taraftan-daralan-kaplama.png",
+    "Aciklama": "Bu işaret yolun her iki taraftan da daralacağını bildirir. Sürücüler bu işareti gördüklerinde hızlarını azaltarak yola devam etmelidir."
+  },
+  {
+    "Id": 8,
+    "Adi": "Sağdan Daralan Kaplama",
+    "ResimYolu": "assets/Trafikisaretleri/8-sagdan-daralan-kaplama.png",
+    "Aciklama": "Bu trafik işareti yolun sağ taraftan daralacağını bildirir. Bu işareti gören sürücü yolun kendi tarafının daralacağını bilmeli ve hızını azaltarak dikkatli sürmesi gerekir."
+  },
+  {
+    "Id": 9,
+    "Adi": "Soldan Daralan Kaplama",
+    "ResimYolu": "assets/Trafikisaretleri/9-soldan-daralan-kaplama.png",
+    "Aciklama": "Bu trafik işareti yolun soldan daralacağını ifade eder. Sürücü bu işareti gördüğünde hızını azaltmalı ve karşıdan gelebilecek araçlara karşı dikkatli olmalıdır."
+  },
+  {
+    "Id": 10,
+    "Adi": "Kasisli Yol",
+    "ResimYolu": "assets/Trafikisaretleri/10-kasisli-yol.png",
+    "Aciklama": "İleride hendek, kasis,  tümsek gibi yol yüzeyi arızalarının  bulunduğunu bildirir.  Sürücüler, taşıtlarının  hızını azaltır ve arızalı  yol kesimini uygun bir  hızla geçerler."
+  },
+  {
+    "Id": 11,
+    "Adi": "Kaygan Yol",
+    "ResimYolu": "assets/Trafikisaretleri/11-kaygan-yol.png",
+    "Aciklama": "Yağmur, kar, buz ve  benzeri nedenlerle yolun  kaygan duruma geldiğini  bildirir. Sürücüler, taşıtlarının  hızını azaltırlar. Bu  kesimde etkili fren yapmaz  ve direksiyonu sert  şekilde döndürmezler."
+  },
+  {
+    "Id": 12,
+    "Adi": "Gevşek Malzemeli Zemin",
+    "ResimYolu": "assets/Trafikisaretleri/12-gevsek-malzemeli-zemin.png",
+    "Aciklama": "Bu işaret yolda gevşek malzeme olduğunu ve öndeki araçlardan taş fırlayabileceğini ifade eder.."
+  },
+  {
+    "Id": 13,
+    "Adi": "Gevşek Şev",
+    "ResimYolu": "assets/Trafikisaretleri/13-gevsek-sev.png",
+    "Aciklama": "Yol üzerine taş ve kaya parçaları yuvarlanabileceğini veya yol üzerinde taş ve kaya parçaları olabileceğini gösterir. Sürücülerin dikkatli geçmeleri gerekir."
+  },
+  {
+    "Id": 14,
+    "Adi": "Yaya Geçidi",
+    "ResimYolu": "assets/Trafikisaretleri/14-yaya-gecidi.png",
+    "Aciklama": "Yaya geçidine yaklaşıldığını  bildirir. Sürücüler,  taşıtlarının hızını azaltır ve  geçme yasağına uyarlar.  Geçitten karşıya geçen  veya geçmek üzere bulunan  yayalara ilk geçiş  hakkını verirler."
+  },
+  {
+    "Id": 15,
+    "Adi": "Okul Geçidi",
+    "ResimYolu": "assets/Trafikisaretleri/15-okul-gecidi.png",
+    "Aciklama": "Okul geçidine yaklaşıldığını  bildirir. Sürücüler,  taşıtlarının hızını azaltır ve  geçme yasağına uyarlar.  Geçitten geçen veya geçmek  üzere olan öğrencilere  ilk geçiş hakkını verirler."
+  },
+  {
+    "Id": 16,
+    "Adi": "Ehli Hayvanlar Geçebilir",
+    "ResimYolu": "assets/Trafikisaretleri/16-ehli-hayvanlar-gecebilir.png",
+    "Aciklama": "Hayvan sürülerinin yol  eksesine dik olarak karşıya  geçme olasılığının bulunduğunu  bildirir. Sürücüler,  bu duruma dikkat  ederek taşıt kullanırlar."
+  },
+  {
+    "Id": 17,
+    "Adi": "Vahşi Hayvanlar Geçebilir",
+    "ResimYolu": "assets/Trafikisaretleri/17-vahsi-hayvanlar-gecebilir.png",
+    "Aciklama": "Vahşi hayvanların yol  eksenine dik olarak  geçme olasılığının bulunduğunu  bildirir. Sürücüler,  bu duruma dikkat ederek  taşıt kullanırlar."
+  },
+  {
+    "Id": 18,
+    "Adi": "Yolda Çalışma Var",
+    "ResimYolu": "assets/Trafikisaretleri/18-yolda-calisma-var.png",
+    "Aciklama": "Yapım, bakım, onarım,  asfalt ve benzeri çalışmaların  yapıldığı yol kesimine  yaklaşıldığını bildirir.  Sürücüler, taşıtlarının hızını  azaltarak diğer işaretlerle  belirtilen yasaklama ve kısıtlamalara  uyarlar."
+  },
+  {
+    "Id": 19,
+    "Adi": "Işıklı İşaret Cihazı",
+    "ResimYolu": "assets/Trafikisaretleri/19-isikli-isaret-cihazi.png",
+    "Aciklama": "Işıklı işaret cihazlarıyla  kontrollü bir kavşağa yaklaşıldığını  bildirir. Sürücüler,  kavşaktaki koşullara  uyacak şekilde dikkatle  yaklaşırlar."
+  },
+  {
+    "Id": 21,
+    "Adi": "İki Yönlü Trafik",
+    "ResimYolu": "assets/Trafikisaretleri/21-iki-yonlu-trafik.png",
+    "Aciklama": "Genel olarak bölünmüş  bir yoldan, iki yönlü  ve iki şeritli yol kesimine  yaklaşıldığını bildirir. Normalde  tek yönlü bir yolun,  geçici olarak iki yönlü trafiğe  açılmış olduğunu da  gösterir. Sürücüler, diğer  işaretlerle belirtilen yasaklama ve kısıtlamalara  uyarlar."
+  },
+  {
+    "Id": 22,
+    "Adi": "Dikkat",
+    "ResimYolu": "assets/Trafikisaretleri/22-dikkat.png",
+    "Aciklama": "Tehlike uyarı işaretleriyle  bildirilen tehlikeler  dışında kalan diğer tehlikeleri  bildirir. Bu tehlikenin  ne olduğu (gevşek  malzemeli zemin, kaygan  yol, düşük banket, kanal  vb.) bir panel levha ile belirtilir.  Sürücüler, bildirilen tehlikeye dikkat ederek  taşıt kullanırlar."
+  },
+  {
+    "Id": 23,
+    "Adi": "Kontrolsüz Kavşak",
+    "ResimYolu": "assets/Trafikisaretleri/23-kontrolsuz-kavsak.png",
+    "Aciklama": "İleride polis veya ışıklı  trafik işaret cihazıyla  kontrollü olmayan kavşak  bulunduğunu bildirir. Sürücüler,  kavşağa yaklaşırken  taşıtlarının hızını azaltır  ve ilk geçiş hakkına  uyarlar."
+  },
+  {
+    "Id": 24,
+    "Adi": "Sağdan Anayola Giriş",
+    "ResimYolu": "assets/Trafikisaretleri/25-sagdan-anayola-giris.png",
+    "Aciklama": "Sağ taraftan ana yola bağlanan yan yol olduğunu bildirir. Sürücülerin sağdan çıkabilecek araçlar olduğunu değerlendirmeleri gerekir"
+  },
+  {
+    "Id": 25,
+    "Adi": "Soldan Anayola Giriş",
+    "ResimYolu": "assets/Trafikisaretleri/26-soldan-anayola-giris.png",
+    "Aciklama": "Sol taraftan ana yola bağlanan yan yol olduğunu bildirir. Sürücülerin soldan çıkabilecek araçlar olduğunu değerlendirmeleri gerekir"
+  },
+  {
+    "Id": 26,
+    "Adi": "Dönel Kavşak Yaklaşımı",
+    "ResimYolu": "assets/Trafikisaretleri/27-donel-kavsak-yaklasimi.png",
+    "Aciklama": "İleride, trafiğin bir ada  etrafında döndürülmek  suretiyle diğer yollara dağıtıldığı  dönel kavşak bulunduğunu  bildirir. Sürücüler,  kavşağa yaklaşırken  taşıtlarının hızını azaltır  ve ilk geçiş hakkını  dönel kavşak içindeki  araç sürücülerine verirler."
+  },
+  {
+    "Id": 27,
+    "Adi": "Kontrollü Demiryolu Geçidi",
+    "ResimYolu": "assets/Trafikisaretleri/28-yeni-kontrollu-demir-yolu-gecidi.png",
+    "Aciklama": "İleride bariyer veya benzeri  bir teçhizatla kontrollü  demir yolu geçidi (hemzemin  geçit) bulunduğunu  bildirir. Sürücüler, taşıtlarının  hızını azaltarak diğer  işaretlerle konmuş olan yasaklama  ve kısıtlamalara  uyarlar. Demir yoluna gelince  ışıklı veya sesli olarak verilen DUR emrine  uyarak dururlar. İndirilmiş veya indirilmekte olan  tam veya yarım bariyerler varken geçide girmeden  durur ve geçit açıldıktan sonra geçerler."
+  },
+  {
+    "Id": 28,
+    "Adi": "Kontrolsüz Demiryolu Geçidi",
+    "ResimYolu": "assets/Trafikisaretleri/29-kontrolsuz-demiryolu-gecidi.png",
+    "Aciklama": "İleride bariyer veya benzeri  bir teçhizatla kontrollü  olmayan demir yolu geçidi  (hemzemin geçit) bulunduğunu  bildirir. Sürücüler,  taşıtlarının hızını azaltarak  diğer işaretlerle belirtilen  yasaklama ve kısıtlamalara  uyarlar. Demir yoluna gelince  durur ve demir yolunu kontrol ettikten sonra  geçerler."
+  },
+  {
+    "Id": 29,
+    "Adi": "Düşük Banket",
+    "ResimYolu": "assets/Trafikisaretleri/31-dusuk-banket.png",
+    "Aciklama": "Yol kaplaması yani asfalt ile zemin arasında ciddi fark olduğunu bildirir. Sürücünün yolun kenarına dikkat etmeleri gerekir."
+  },
+  {
+    "Id": 30,
+    "Adi": "Gizli Buzlanma",
+    "ResimYolu": "assets/Trafikisaretleri/32-gizli-buzlanma.png",
+    "Aciklama": "Bu işaret özellikle köprü üzeri ve yüksek rakımlı yerlerde karşımıza çıkar. Yol üzerinde buzlanma olabileceğini ve fark edilemeyebileceğini ifade eder. Sürücüler hız azaltıp dikkatli geçmeleri gerekir."
+  },
+  {
+    "Id": 31,
+    "Adi": "Yol Ver",
+    "ResimYolu": "assets/Trafikisaretleri/33-yol-ver.png",
+    "Aciklama": "Tali yoldan ana yol kavşağına  gelindiğini bildirir.  Sürücüler, ana yoldan gelen  taşıtlar varsa ilk geçiş hakkını  bunlara verdikten sonra  kavşağa girerler."
+  },
+  {
+    "Id": 32,
+    "Adi": "Dur",
+    "ResimYolu": "assets/Trafikisaretleri/34-dur.png",
+    "Aciklama": "Tali yoldan ana yol  kavşağına gelindiğini bildirir.  Sürücüler, kavşak  girişinde taşıtlarını durdururlar.  Ana yoldan gelen  taşıtlar varsa ilk geçiş  hakkını onlara verdikten  sonra harekete geçerek  kavşağa girerler."
+  },
+  {
+    "Id": 33,
+    "Adi": "Karşıdan Gelene Yol Ver",
+    "ResimYolu": "assets/Trafikisaretleri/35-karsidan-gelene-yol-ver.png",
+    "Aciklama": "İki yönlü taşıt yolunun  sürekli veya geçici nedenlerle  (köprü, menfez,  geçit, kayma, çökme gibi)  iki taşıtın güvenli geçemeyeceği  şekilde dar olduğu  yerlerde karşı yönden gelen  taşıta geçiş kolaylığı  sağlanmasını bildirir. Sürücüler,  karşı yönden gelen taşıt bu dar kesimi  geçtikten sonra yollarına devam ederler."
+  },
+  {
+    "Id": 34,
+    "Adi": "Girişi Olmayan Yol",
+    "ResimYolu": "assets/Trafikisaretleri/36-girisi-olmayan-yol.png",
+    "Aciklama": "Her türlü taşıt trafiğine yasak olduğunu bildirir. Genelde bu işaretin bulunduğu yolun karşı istikameti tek yönlü bir yoldur."
+  },
+  {
+    "Id": 35,
+    "Adi": "Taşıt Trafiğine Kapalı Yol",
+    "ResimYolu": "assets/Trafikisaretleri/37-tasit-trafigine-kapali-yol.png",
+    "Aciklama": "Yolun her iki yönden de taşıt trafiğine kapalı olduğunu bildirir."
+  },
+  {
+    "Id": 36,
+    "Adi": "Motosiklet Hariç Motorlu Taşıt Trafiğine Kapalı ",
+    "ResimYolu": "assets/Trafikisaretleri/38-motosiklet-haric-motorlu-tasit-trafigine-kapali-yol.png",
+    "Aciklama": "Motorlu bisiklet ve sepetsiz motosikletler dışındaki tüm motorlu araç girişinin yasak olduğunu bildirir."
+  },
+  {
+    "Id": 37,
+    "Adi": "Motosiklet Giremez",
+    "ResimYolu": "assets/Trafikisaretleri/39-motosiklet-giremez.png",
+    "Aciklama": "Motosiklet girişinin yasak olduğunu bildirmektedir."
+  },
+  {
+    "Id": 38,
+    "Adi": "Bisiklet Giremez",
+    "ResimYolu": "assets/Trafikisaretleri/40-bisiklet-giremez.png",
+    "Aciklama": "Bisikletlerin bu yola  girmelerinin yasak olduğunu  bildirir. Bisiklet  sürücülerinin bu yola girmemeleri  gerekir."
+  },
+  {
+    "Id": 40,
+    "Adi": "Kamyon Giremez",
+    "ResimYolu": "assets/Trafikisaretleri/41-kamyon-giremez.png",
+    "Aciklama": "Kamyonların giremeyeceğini bildirmektedir. Kamyonlar azami yüklü ağırlığı 3,5 tondan fazla olan araçlardır."
+  },
+  {
+    "Id": 41,
+    "Adi": "Otobüs Giremez",
+    "ResimYolu": "assets/Trafikisaretleri/41-otobus-giremez.png",
+    "Aciklama": "Otobüsler giremeyeceğini bildirmektedir."
+  },
+  {
+    "Id": 43,
+    "Adi": "Yaya Giremez",
+    "ResimYolu": "assets/Trafikisaretleri/43-yaya-giremez.png",
+    "Aciklama": "Yayaların bu işaret levhasının  bulunduğu yola  girmelerinin yasaklanmış  olduğunu bildirir."
+  },
+  {
+    "Id": 44,
+    "Adi": "Motorlu Taşıt Giremez",
+    "ResimYolu": "assets/Trafikisaretleri/44-motorlu-tasit-giremez.png",
+    "Aciklama": "Bisikletliler ve hayvanla çekme yapılan(at arabası gibi) araçlar girebilir. Bunun dışında motora sahip olan hiç bir araç giremez."
+  },
+  {
+    "Id": 45,
+    "Adi": "Taşıt Giremez",
+    "ResimYolu": "assets/Trafikisaretleri/45-tasit-giremez.png",
+    "Aciklama": "Bisiklet, motorlu bisiklet  (mopet) ve el arabaları  dışındaki taşıtların bu yola  girmelerinin yasaklanmış  olduğunu bildirir. Araç sürücülerinin  bu yola girmemeleri  gerekir."
+  },
+  {
+    "Id": 46,
+    "Adi": "Genişlik-Gabari",
+    "ResimYolu": "assets/Trafikisaretleri/46-genislik-gabari.png",
+    "Aciklama": "Genişliği (2,30) metreden fazla olan taşıt giremez."
+  },
+  {
+    "Id": 47,
+    "Adi": "Yükseklik-Gabari",
+    "ResimYolu": "assets/Trafikisaretleri/47-yukseklik-gabari.png",
+    "Aciklama": "Yüksekliği (3,50) metreden fazla olan taşıt giremez."
+  },
+  {
+    "Id": 48,
+    "Adi": "Sağa Dönülmez",
+    "ResimYolu": "assets/Trafikisaretleri/48-saga-donulmez.png",
+    "Aciklama": "Yaklaşılan ilk kavşakta  sağa dönüşün yasaklanmış  olduğunu bildirir. Sürücülerin  bu kavşakta sağa  dönmemeleri gerekir."
+  },
+  {
+    "Id": 49,
+    "Adi": "Sola Dönülmez",
+    "ResimYolu": "assets/Trafikisaretleri/49-sola-donulmez.png",
+    "Aciklama": "Yaklaşılan ilk kavşakta  sola dönüşün yasaklanmış  olduğunu bildirir. Sürücülerin  bu kavşakta sola dönmemeleri  gerekir."
+  },
+  {
+    "Id": 50,
+    "Adi": "U Dönüşü Yapılmaz",
+    "ResimYolu": "assets/Trafikisaretleri/50-udonusu-yapilmaz.png",
+    "Aciklama": "U dönüşü yapmanın yasak olduğunu bildirmektedir. U dönüşünün uygunsuz veya trafiği tehlikeye düşürme riskinin olduğu yollarda kullanılır."
+  },
+  {
+    "Id": 51,
+    "Adi": "Öndeki Taşıtı Geçmek Yasaktır",
+    "ResimYolu": "assets/Trafikisaretleri/51-ondeki-araci-gecmek-yasaktir.png",
+    "Aciklama": "Mopedler ve bisikletlilerin dışındaki tüm araçların geçilmesinin yasak olduğunu bildirmektedir."
+  },
+  {
+    "Id": 52,
+    "Adi": "Yük Taşıtları İçin Öndeki Taşıtı Geçmek Yasaktır",
+    "ResimYolu": "assets/Trafikisaretleri/52-yuk-tasitlarinin-ondeki-araci-gecmesi-yasaktir.png",
+    "Aciklama": "Kamyonların öndeki araçları geçmelerinin yasak olduğunu bildirir."
+  },
+  {
+    "Id": 53,
+    "Adi": "Azami Hız Sınırlaması",
+    "ResimYolu": "assets/Trafikisaretleri/53-azami-hiz-sinirlamasi.png",
+    "Aciklama": "Yolda hız sınırı olduğunu bildirir. Hız sınırının değişiklik gösterdiği yollarda kullanılır. Eğer hız sınırı uzun bir yol boyunca geçerliyse 10 km'de bir levha tekrar edilir. "
+  },
+  {
+    "Id": 55,
+    "Adi": "Bütün Yasaklama ve Kısıtlamaların Sonu",
+    "ResimYolu": "assets/Trafikisaretleri/55-butun-yasaklama-ve-kisitlamalarin-sonu.png",
+    "Aciklama": "Var olan kısıtlamaların ve yasakların bittiğini göstermektedir."
+  },
+  {
+    "Id": 56,
+    "Adi": "Hız Sınırlaması Sonu",
+    "ResimYolu": "assets/Trafikisaretleri/56-hiz-sinirlamasi-sonu.png",
+    "Aciklama": "Var olan hız sınırlamasının bittiğini gösterir. Bu tabelada 50 olan hız sınırı kalkmıştır."
+  },
+  {
+    "Id": 57,
+    "Adi": "Geçme Yasağı Sonu",
+    "ResimYolu": "assets/Trafikisaretleri/57-gecme-yasagi-sonu.png",
+    "Aciklama": "Öndeki aracı geçme yasağının ortadan kalktığını bildirir."
+  },
+  {
+    "Id": 58,
+    "Adi": "Sağdan Gidiniz",
+    "ResimYolu": "assets/Trafikisaretleri/60-sagdan-gidiniz.png",
+    "Aciklama": "Sağdan gidilmesi gerektiğini bildirir."
+  },
+  {
+    "Id": 59,
+    "Adi": "Soldan Gidiniz",
+    "ResimYolu": "assets/Trafikisaretleri/61-soldan-gidiniz.png",
+    "Aciklama": "Soldan gidilmesi gerektiğini bildirir."
+  },
+  {
+    "Id": 60,
+    "Adi": "Her İki Yandan Gidiniz",
+    "ResimYolu": "assets/Trafikisaretleri/62-her-iki-yandan-gidiniz.png",
+    "Aciklama": "Sürücü her iki yönden birinden gitmeyi tercih edebilir. "
+  },
+  {
+    "Id": 61,
+    "Adi": "Ada Etrafında Dönünüz",
+    "ResimYolu": "assets/Trafikisaretleri/63-ada-etrafinda-donunuz.png",
+    "Aciklama": "Dönel kavşaklarda izlenmesi gereken yönü belirtir. Dönel kavşağın her girişine konulur. Dönel kavşak içerisindeki aracın geçiş önceliği vardır. Bu nedenle dönel kavşağa giren araçların kavşak içerisindeki araçlara yol vermesi gerekir."
+  },
+  {
+    "Id": 62,
+    "Adi": "Mecburi Asgari Hız",
+    "ResimYolu": "assets/Trafikisaretleri/64-mecburi-asgari-hiz.png",
+    "Aciklama": "Otoyol veya benzer yollarda asgari(en az) gidilebilecek hız sınırını gösterir. Bu işaret için asgari sınır 30'dur."
+  },
+  {
+    "Id": 63,
+    "Adi": "Mecburi Asgari Hız Sonu",
+    "ResimYolu": "assets/Trafikisaretleri/65-mecburi-asgari-hiz-sonu.png",
+    "Aciklama": "Asgari hız sınırlamasının bittiğini belirtir"
+  },
+  {
+    "Id": 64,
+    "Adi": "Zincir Takmak Mecburidir",
+    "ResimYolu": "assets/Trafikisaretleri/66-zincir-takmak-mecburidir.png",
+    "Aciklama": "Zincir takmanın mecburi olduğunu bildirir. Eğer araç önden çekişli ise ön tarafa 2 adet, arkadan çekişli ise arkaya 2 adet zincir takılabilir."
+  },
+  {
+    "Id": 65,
+    "Adi": "Zincir Takmak Mecburiyeti Sonu",
+    "ResimYolu": "assets/Trafikisaretleri/66-zincir-takmak-mecburiyet-sonu.png",
+    "Aciklama": "Zincir takma zorunluluğunun son erdiğini bildirir."
+  },
+  {
+    "Id": 66,
+    "Adi": "Park Etmek Yasaktır",
+    "ResimYolu": "assets/Trafikisaretleri/67-park-etmek-yasaktir.png",
+    "Aciklama": "Bu trafik işaretinin bulunduğu yerde duraklama yapılabilir. Fakat araç park edilip gidilemez. Bu kurala uymayan sürücünün aracı çekilebilir, sürücüye ceza kesilebilir veya plakaya ceza yazılabilir."
+  },
+  {
+    "Id": 67,
+    "Adi": "Duraklama ve Park Etmek Yasağı",
+    "ResimYolu": "assets/Trafikisaretleri/68-duraklamak-ve-park-etme-yasaktir.png",
+    "Aciklama": "Bu trafik işaretinin bulunduğu yerde duraklama dahi yapılamaz."
+  },
+  {
+    "Id": 68,
+    "Adi": "Park Yeri",
+    "ResimYolu": "assets/Trafikisaretleri/69-park-yeri.png",
+    "Aciklama": "Bu trafik işaretinin bulunduğu yere aracınızı park edebilirsiniz."
+  }
+]
